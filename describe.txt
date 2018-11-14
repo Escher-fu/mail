@@ -1,0 +1,7 @@
+config.py 读取配置文件
+message.py 编写邮件内容
+send.py 发送邮件
+
+[配置文件介绍]：
+user.ini: 存放发件人的邮箱和密码
+customers.ini: 存放收件人列表的邮箱号
